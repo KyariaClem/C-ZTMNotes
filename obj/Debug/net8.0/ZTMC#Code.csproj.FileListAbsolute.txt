@@ -1,0 +1,14 @@
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/bin/Debug/net8.0/ZTMC#Code
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/bin/Debug/net8.0/ZTMC#Code.deps.json
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/bin/Debug/net8.0/ZTMC#Code.runtimeconfig.json
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/bin/Debug/net8.0/ZTMC#Code.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/bin/Debug/net8.0/ZTMC#Code.pdb
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.AssemblyInfoInputs.cache
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.AssemblyInfo.cs
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.csproj.CoreCompileInputs.cache
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/refint/ZTMC#Code.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.pdb
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.genruntimeconfig.cache
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ref/ZTMC#Code.dll
