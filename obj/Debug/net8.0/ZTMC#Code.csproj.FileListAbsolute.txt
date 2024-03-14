@@ -12,3 +12,4 @@
 /Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.pdb
 /Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.genruntimeconfig.cache
 /Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ref/ZTMC#Code.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMC#Code/obj/Debug/net8.0/ZTMC#Code.sourcelink.json

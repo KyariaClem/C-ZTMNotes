@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Dynamic;
 using System.Globalization;
+using System.Reflection.Metadata.Ecma335;
 using System.Runtime.InteropServices;
 using System.Runtime.Serialization.Formatters;
 
@@ -43,4 +45,78 @@ ex: Person personObject = new Person()
 /*
 Class - outlines the blueprint
 object - 
+*/
+class Person 
+{
+    //fields , camcelCase with _ prefix
+    private string _name;
+
+    // constructor
+    // use ctor to generate constuctor in VS as shortcut
+   public Person()
+   {
+    _name = "kyaria";
+   }
+
+   // propertities , getters / setters
+ /* 
+ -Setters - allow value to be set outside the class
+ -Getters - Allows accesss to the value outside the class
+ */
+
+ public string Name 
+ {
+    get {return _name; }
+    set {_name = value; }
+ }
+}
+
+//ShortPerson person = new ShortPerson("kyaria");
+// Short verison for class writing
+class ShortPerson
+{
+    // No fields
+    // constructor
+    // set field value in constuctor parameter
+    public ShortPerson(string name)
+    {
+        // set field name in constructor 
+        Name = name;
+    }
+
+public string Name {get; set;}
+
+
+public void PrintGreeeting(){
+    Console.WriteLine($"Hello + {Name}!");
+}
+}
+
+
+
+// Value and Reference Types
+/*
+Value types ext int
+in value types can create variables to refernce another variable
+ex: int age = 24
+    int age1 = age; references to age whiche equals 24
+*/
+
+/*
+Referance types key words:
+1. class
+2. interface
+3.delegate
+4. record
+*/
+
+/*Name Spaces 
+- NameSpaces group classes together
+*/
+
+// static
+/*
+- Cannot create instances of static classes
+- static class can only contain static methods / proerties
+-Use class name of static methods to access because they are not tied to an instance of a class.
 */
