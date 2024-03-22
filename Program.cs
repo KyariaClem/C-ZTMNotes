@@ -118,5 +118,15 @@ Referance types key words:
 /*
 - Cannot create instances of static classes
 - static class can only contain static methods / proerties
--Use class name of static methods to access because they are not tied to an instance of a class.
+-Use class name of static methods to access bec   ause they are not tied to an instance of a class.
+*/
+
+// interface 
+/*
+- use public access modifer, interface keyword, interface name
+-use Pascal case for interface name
+- start interface name with captial I
+ex: public interface IKyaria {
+    
+}
 */
