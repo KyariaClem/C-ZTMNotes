@@ -127,6 +127,29 @@ Referance types key words:
 -use Pascal case for interface name
 - start interface name with captial I
 ex: public interface IKyaria {
-    
+    define methods
+    ex: string GetModel();
+
 }
+
+-Syntax to implent interfaces in classes:
+public class class name : interface name
+ex: public class TelsaModels : ICar {
+
+}
+*/
+
+//Method overloading 
+/*
+- create twon constructors
+0one basic constructor, then another construcrtor for other methods to use
+
+*/
+
+
+// inheritance
+/*  ;lb
+\]"?
+
+
 */

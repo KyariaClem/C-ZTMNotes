@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZTMC#Code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53207ade6c4357e12b9091ab658e38eb3ce9c793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0322ce64f372f64f905a0cdcf700c740da8af4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZTMC#Code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZTMC#Code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
