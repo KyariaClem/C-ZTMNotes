@@ -148,8 +148,13 @@ ex: public class TelsaModels : ICar {
 
 
 // inheritance
-/*  ;lb
-\]"?
+/*  
+-inherit from base or parent class
+-  in inheritance get everything BUT constructor
+- only have access to public modifers
 
-
+SYNTAX FOR INHERITENCE 
+public class child class : parent class {
+    create constructor
+}
 */
