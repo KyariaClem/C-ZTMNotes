@@ -157,4 +157,8 @@ SYNTAX FOR INHERITENCE
 public class child class : parent class {
     create constructor
 }
+
+-VIRUTAL KEYWORD: virtual 
+  - does what ?
+        * allows you override methods, etc in parent class within the child class
 */
