@@ -160,5 +160,6 @@ public class child class : parent class {
 
 -VIRUTAL KEYWORD: virtual 
   - does what ?
-        * allows you override methods, etc in parent class within the child class
+        * allows you override methods, etc in parent class within the child class.
+         - add the virutal keyword ib the parent class method, no keyword = no override / manipulation
 */
