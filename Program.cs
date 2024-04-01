@@ -163,3 +163,14 @@ public class child class : parent class {
         * allows you override methods, etc in parent class within the child class.
          - add the virutal keyword ib the parent class method, no keyword = no override / manipulation
 */
+
+//AddingNewEventArgs NOTES
+
+// Polymorphism
+
+// Variable rules
+/*
+-Properties "Method getters/ setter names": Uppercase
+-field: underscore_and_lowercase
+-local variables: lowercase
+*/
