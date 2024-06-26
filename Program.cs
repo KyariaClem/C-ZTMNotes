@@ -174,3 +174,18 @@ public class child class : parent class {
 -field: underscore_and_lowercase
 -local variables: lowercase
 */
+string yesAnswer = "yes";
+string accountYesNoQuestion = Console.ReadLine();
+String noAnswer = "no";
+String accountNoQuestion = Console.ReadLine();
+if(accountYesNoQuestion == yesAnswer) {
+    Console.WriteLine("Awesome, you want to open a checking account how much do you want to deposit ?");
+//     string inputAccountDeposit = Console.ReadLine();
+// int accountDeposit = int.Parse(inputAccountDeposit);
+// string inputAccountDeposit = Console.ReadLine();
+//     Console.WriteLine("It worked !");
+} else if (accountNoQuestion == noAnswer) {
+    Console.WriteLine("Do you want to open a premium account ?");
+} else {
+    Console.WriteLine("Have a great day !");
+};
