@@ -189,3 +189,17 @@ if(accountYesNoQuestion == yesAnswer) {
 } else {
     Console.WriteLine("Have a great day !");
 };
+
+// Implicat typing
+/*
+- can use var keyword
+ex:
+instead of Person Person1 = new Person();
+
+do:
+var Person1 = new Person();
+
+- can also use var for variable types that are obvious 
+ex:
+string name = kyaria
+*/
