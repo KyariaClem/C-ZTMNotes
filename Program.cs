@@ -216,3 +216,21 @@ var age = 25;
 */
 
 //var name2 = "kyaria";
+
+// COnst
+/* 
+- Use CONST keyword to keep variable from changing
+*/
+
+//garage collection
+/* 
+2 Types
+    1. Stack: 
+        - Array of memory. data can only be added and deleted from the top
+        1 -> 2 -> 3 -> 3 -> 4
+
+
+
+
+    2. heap: area of memory where
+*/
