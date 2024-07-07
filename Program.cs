@@ -232,5 +232,15 @@ var age = 25;
 
 
 
-    2. heap: area of memory where
+    2. heap: area of memory where chunks are allocated to store objects
+        How to access ?
+                - reference points
+
+            
+*/
+
+// Enumrations / Enurmation types
+/* 
+enumartions: a set name on constant vales attached
+enumator list:
 */
