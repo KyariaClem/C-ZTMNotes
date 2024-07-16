@@ -279,3 +279,10 @@ EXPRESSION =>(arrow opertor)
 }
 
 */
+
+// STRUCTS
+/* 
+WHAT ?
+- A structure type, a value type that encapsulates data and functionality
+- Almost same format/ set up as class BUT instead of class keyword, use stu
+*/
