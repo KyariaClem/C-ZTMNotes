@@ -284,5 +284,17 @@ EXPRESSION =>(arrow opertor)
 /* 
 WHAT ?
 - A structure type, a value type that encapsulates data and functionality
-- Almost same format/ set up as class BUT instead of class keyword, use stu
+- Almost same format/ set up as class BUT instead of class keyword, use struct keyword
+EX:
+public struct Rectangle {
+
+    public Rectangle(double width, double height) 
+    {
+        Width = width;
+        Height = height;
+    }
+
+public double Width{get; set;}
+public double Height{get; set;}
+}
 */
