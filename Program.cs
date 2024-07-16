@@ -286,6 +286,8 @@ WHAT ?
 - A structure type, a value type that encapsulates data and functionality
 - Almost same format/ set up as class BUT instead of class keyword, use struct keyword
 EX:
+Setting instance of struct (mimics that of setting instance of class): 
+var rectangle = new Rentangle(200; 300)
 public struct Rectangle {
 
     public Rectangle(double width, double height) 
