@@ -242,5 +242,40 @@ var age = 25;
 // Enumrations / Enurmation types
 /* 
 enumartions: a set name on constant vales attached
-enumator list:
+enumator list: list of values
+Structure:
+        (enum keyword) (enum names ) {
+            values
+        }
+    Stucture Ex:
+            enum TemperatureUnit {
+                Celcius,
+                Fahrenhit
+            }
+
+    // Create class called Temperature:
+    class Temperature {
+
+        // create 
+        public Temperature(TempertureUnit Unit , decimal Value)
+
+    // create getter and setters
+        // Get setter for enum TemperatureUnit name of unit
+        public TempertaureUnit Unit {get; set; }
+
+        // Get setter for value ( so we can pass in a value for the temp class when we create an instance of the class)
+         public decimal Value {get ; set ;}
+    }
+
+*/
+
+// SWITCH STATEMENTS
+/* 
+
+return VARIABLE NAME switch 
+{
+EXPRESSION =>(arrow opertor) 
+
+}
+
 */
