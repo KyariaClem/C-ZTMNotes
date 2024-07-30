@@ -287,7 +287,8 @@ WHAT ?
 - Almost same format/ set up as class BUT instead of class keyword, use struct keyword
 EX:
 Setting instance of struct (mimics that of setting instance of class): 
-var rectangle = new Rentangle(200; 300)
+VAR STRUCT-VARIABLE NAME = NEW STRUCTNAME(VALUES);
+var rectangle = new Rentangle(200, 300);
 public struct Rectangle {
 
     public Rectangle(double width, double height) 
@@ -300,3 +301,16 @@ public double Width{get; set;}
 public double Height{get; set;}
 }
 */
+
+
+
+
+
+
+
+
+
+
+'
+
+
