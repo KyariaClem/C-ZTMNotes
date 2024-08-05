@@ -312,6 +312,9 @@ public double Height{get; set;}
 -Struct contains data vs class contains a reference(refernce is copied)
 stcut act like other value tyes aa bool, int, enum
 
+-read only structs
+  *prevents change of value
+
 */
 
 
