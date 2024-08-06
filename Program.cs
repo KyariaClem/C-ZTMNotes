@@ -314,7 +314,11 @@ stcut act like other value tyes aa bool, int, enum
 
 -read only structs
   *prevents change of value
+  -forces any field or property to be read only
 
+Struct limitations :
+    *Cannot inherit from another class / structs
+    *cannot be base of a class
 */
 
 
