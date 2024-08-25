@@ -326,4 +326,17 @@ Struct limitations :
 
 */
 
+// main. git push
+
+// Value types, reference types
+/*
+ -Pass by value: copy of varibale will bepassed to emthofd
+-pass-by-referene: access to the variable will be passed to the nethod
+
+what is default in c sharp ?
+    -Pass-by-value
+            means? 
+                    When we have an instance of a struct to a mthod, the method receives a copy of the struct, including its data
+*/
+
 
